@@ -1,0 +1,426 @@
+# Copyright (C) 2024 Jegstudio
+# This file is distributed under the GNU General Public License v3 or later..
+msgid ""
+msgstr ""
+"Project-Id-Version: Kavana 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/kavana\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-17T06:10:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: kavana\n"
+
+#. Theme Name of the theme
+msgid "Kavana"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://gutenverse.com/kavana-theme"
+msgstr ""
+
+#. Description of the theme
+msgid "Kavana is a minimal design style for WordPress full site editing and is fully compatible with the Gutenverse plugin. This Template is perfect for creators, bloggers, writers, and creatives to suit lifestyle bloggers & magazines. The templates are fully responsive and look great on any device. We want to make your experience using WordPress full site editor more convenient."
+msgstr ""
+
+#. Author of the theme
+msgid "Jegstudio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://gutenverse.com"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:57
+msgid "Kavana Basic Patterns"
+msgstr ""
+
+#: inc/class/class-block-patterns.php:61
+msgid "Kavana Gutenverse Patterns"
+msgstr ""
+
+#: inc/class/class-block-styles.php:58
+msgid "Custom Heading Style"
+msgstr ""
+
+#: inc/class/class-block-styles.php:66
+msgid "Custom Button Style 1"
+msgstr ""
+
+#: inc/class/class-block-styles.php:74
+msgid "Custom Button Style 2"
+msgstr ""
+
+#: inc/class/class-block-styles.php:82
+msgid "Custom Button Style 3"
+msgstr ""
+
+#: inc/class/class-block-styles.php:90
+msgid "Custom Button Style 4"
+msgstr ""
+
+#: inc/class/class-block-styles.php:98
+#: inc/class/class-block-styles.php:106
+msgid "Custom Post Title"
+msgstr ""
+
+#: inc/class/class-block-styles.php:114
+msgid "Navigation Padding"
+msgstr ""
+
+#: inc/class/class-init.php:1473
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class/class-init.php:1721
+msgid "Take Your Website To New Height with"
+msgstr ""
+
+#: inc/class/class-init.php:1722
+msgid "Kavana theme work best with Gutenverse plugin. By installing Gutenverse plugin you may access Kavana templates built with Gutenverse and get access to more than 40 free blocks, hundred free Layout and Section."
+msgstr ""
+
+#: inc/class/class-init.php:1760
+msgid "Please install newer version of Gutenverse plugin! (v1.1.2 and above)"
+msgstr ""
+
+#: inc/class/class-init.php:1805
+msgid "Primary"
+msgstr ""
+
+#: inc/patterns/core-404-hero.php:6
+msgid "Core 404 Hero"
+msgstr ""
+
+#: inc/patterns/core-archive-blog.php:6
+msgid "Core Archive Blog"
+msgstr ""
+
+#: inc/patterns/core-archive-hero.php:6
+msgid "Core Archive Hero"
+msgstr ""
+
+#: inc/patterns/core-archive-newsletter.php:6
+msgid "Core Archive News"
+msgstr ""
+
+#: inc/patterns/core-footer.php:6
+msgid "Core Footer"
+msgstr ""
+
+#: inc/patterns/core-header.php:6
+msgid "Core Header"
+msgstr ""
+
+#: inc/patterns/core-home-aboutme.php:6
+msgid "Core Home About Me"
+msgstr ""
+
+#: inc/patterns/core-home-exploretopic.php:6
+msgid "Core Home Explore"
+msgstr ""
+
+#: inc/patterns/core-home-hero.php:6
+msgid "Core Home Hero"
+msgstr ""
+
+#: inc/patterns/core-home-latestarticle.php:6
+msgid "Core Home Article"
+msgstr ""
+
+#: inc/patterns/core-home-mostpopular.php:6
+msgid "Core Home Popular"
+msgstr ""
+
+#: inc/patterns/core-home-newsletter.php:6
+msgid "Core Home News"
+msgstr ""
+
+#: inc/patterns/core-index-blog.php:6
+msgid "Core Index Blog"
+msgstr ""
+
+#: inc/patterns/core-index-hero.php:6
+msgid "Core Index Hero"
+msgstr ""
+
+#: inc/patterns/core-index-newsletter.php:6
+msgid "Core Index News"
+msgstr ""
+
+#: inc/patterns/core-page-content.php:6
+msgid "Core Page Content"
+msgstr ""
+
+#: inc/patterns/core-page-hero.php:6
+msgid "Core Page Hero"
+msgstr ""
+
+#: inc/patterns/core-page-newsletter.php:6
+msgid "Core Page News"
+msgstr ""
+
+#: inc/patterns/core-search-blog.php:6
+msgid "Core Search Blog"
+msgstr ""
+
+#: inc/patterns/core-search-content.php:6
+msgid "Core Search Content"
+msgstr ""
+
+#: inc/patterns/core-search-hero.php:6
+msgid "Core Search Hero"
+msgstr ""
+
+#: inc/patterns/core-search-newsletter.php:6
+msgid "Core Search News"
+msgstr ""
+
+#: inc/patterns/core-single-content.php:6
+msgid "Core Single Content"
+msgstr ""
+
+#: inc/patterns/core-single-hero.php:6
+msgid "Core Single Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-404-hero.php:6
+msgid "Gutenverse 404 Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-about-biografi.php:6
+msgid "Gutenverse About Biografi"
+msgstr ""
+
+#: inc/patterns/gutenverse-about-exploretopic.php:6
+msgid "Gutenverse About Explore"
+msgstr ""
+
+#: inc/patterns/gutenverse-about-hero.php:6
+msgid "Gutenverse About Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-about-my-story.php:6
+msgid "Gutenverse About Story"
+msgstr ""
+
+#: inc/patterns/gutenverse-about-newsletter.php:6
+msgid "Gutenverse About News"
+msgstr ""
+
+#: inc/patterns/gutenverse-archive-blog.php:6
+msgid "Gutenverse Archive Blog"
+msgstr ""
+
+#: inc/patterns/gutenverse-archive-hero.php:6
+msgid "Gutenverse Archive Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-archive-newsletter.php:6
+msgid "Gutenverse Archive News"
+msgstr ""
+
+#: inc/patterns/gutenverse-contact-hero.php:6
+msgid "Gutenverse Contact Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-contact-main-bar.php:6
+msgid "Gutenverse Contact Main Bar"
+msgstr ""
+
+#: inc/patterns/gutenverse-contact-side-bar.php:6
+msgid "Gutenverse Contact Side Bar"
+msgstr ""
+
+#: inc/patterns/gutenverse-footer.php:6
+msgid "Gutenverse Contact Footer"
+msgstr ""
+
+#: inc/patterns/gutenverse-gallery-hero.php:6
+msgid "Gutenverse Gallery Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-gallery-newsletter.php:6
+msgid "Gutenverse Gallery News"
+msgstr ""
+
+#: inc/patterns/gutenverse-gallery-photo.php:6
+msgid "Gutenverse Gallery Photo"
+msgstr ""
+
+#: inc/patterns/gutenverse-header.php:6
+msgid "Gutenverse Header"
+msgstr ""
+
+#: inc/patterns/gutenverse-home-about-me.php:6
+msgid "Gutenverse Home About Me"
+msgstr ""
+
+#: inc/patterns/gutenverse-home-exploretopic.php:6
+msgid "Gutenverse Home Explore"
+msgstr ""
+
+#: inc/patterns/gutenverse-home-hero.php:6
+msgid "Gutenverse Home Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-home-latest-article.php:6
+msgid "Gutenverse Home Article"
+msgstr ""
+
+#: inc/patterns/gutenverse-home-most-popular.php:6
+msgid "Gutenverse Home Popular"
+msgstr ""
+
+#: inc/patterns/gutenverse-home-newsletter.php:6
+msgid "Gutenverse Home News"
+msgstr ""
+
+#: inc/patterns/gutenverse-home-popup.php:6
+msgid "Gutenverse Home Popup"
+msgstr ""
+
+#: inc/patterns/gutenverse-index-blog.php:6
+msgid "Gutenverse Index Blog"
+msgstr ""
+
+#: inc/patterns/gutenverse-index-hero.php:6
+msgid "Gutenverse Index Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-index-newsletter.php:6
+msgid "Gutenverse Index News"
+msgstr ""
+
+#: inc/patterns/gutenverse-page-content.php:6
+msgid "Gutenverse Page Content"
+msgstr ""
+
+#: inc/patterns/gutenverse-page-hero.php:6
+msgid "Gutenverse Page Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-page-newsletter.php:6
+msgid "Gutenverse Page News"
+msgstr ""
+
+#: inc/patterns/gutenverse-search-blog.php:6
+msgid "Gutenverse Search Blog"
+msgstr ""
+
+#: inc/patterns/gutenverse-search-content.php:6
+msgid "Gutenverse Search Content"
+msgstr ""
+
+#: inc/patterns/gutenverse-search-hero.php:6
+msgid "Gutenverse Search Hero"
+msgstr ""
+
+#: inc/patterns/gutenverse-search-newsletter.php:6
+msgid "Gutenverse Search News"
+msgstr ""
+
+#: inc/patterns/gutenverse-single-content.php:6
+msgid "Gutenverse Single Content"
+msgstr ""
+
+#: inc/patterns/gutenverse-single-hero.php:6
+msgid "Gutenverse Single Hero"
+msgstr ""
+
+#: index.php:4
+msgid "This theme was built for the WordPress full-site-editing feature. You need to install and activate the Gutenberg plugin to make it work. "
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Pink to Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Third"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Fourth"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Fifth"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Sixth"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Seventh"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "EB Garamond"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Josefin Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Hero Font"
+msgstr ""

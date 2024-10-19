@@ -1,0 +1,221 @@
+/*
+	Theme Name: Kavana
+	Description: Kavana is a minimal design style for WordPress full site editing and is fully compatible with the Gutenverse plugin. This Template is perfect for creators, bloggers, writers, and creatives to suit lifestyle bloggers & magazines. The templates are fully responsive and look great on any device. We want to make your experience using WordPress full site editor more convenient.
+	Author: Jegstudio
+	Author URI: https://gutenverse.com
+  Theme URI: https://gutenverse.com/kavana-theme
+	Version: 1.0.5
+	Stable tag: 1.0.5
+	Requires at least: 6.1
+	Tested up to: 6.1
+	Requires PHP: 7.0
+	License: GNU General Public License v3 or later.
+	License URI: https://www.gnu.org/licenses/gpl-3.0.html
+	Text Domain: kavana
+	Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, full-site-editing, translation-ready, block-patterns, featured-images
+*/
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Sections ========================================================================== */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.7;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Header Fonts ======================================================================= */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Grouping content ========================================================================== */
+hr {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+pre {
+  font-family: monospace;
+  font-size: 1em;
+  white-space: pre-wrap;
+}
+
+/* Text-level semantics ========================================================================== */
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted;
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */
+}
+
+small {
+  font-size: 80%;
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+/* Embedded content ========================================================================== */
+img {
+  border-style: none;
+  height: auto;
+  max-width: 100%;
+}
+
+figure {
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+}
+
+/* Interactive ========================================================================== */
+details {
+  display: block;
+}
+
+summary {
+  display: list-item;
+}
+
+figcaption {
+  font-size: 16px;
+  line-height: 1.4;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.wp-site-blocks>* {
+  margin-top: 0 !important;
+}
+
+.comment-form-comment {
+  margin-bottom: 5px;
+  margin-top: 20px;
+}
+
+.wp-block-post-comments input[type=submit],
+.wp-block-post-comments-form input[type=submit] {
+  color: var(--wp--preset--color--fifth);
+  font-family: "Josefin Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1em;
+  padding: 20px 40px;
+  background-color: var(--wp--preset--color--third);
+  border-radius: 0px;
+  border-style: none;
+  text-transform: Uppercase;
+}
+
+.wp-block-post-comments input[type=submit]:hover,
+.wp-block-post-comments-form input[type=submit]:hover {
+  color: var(--wp--preset--color--fifth);
+  background-color: var(--wp--preset--color--seventh);
+}
+
+.wp-block-post-comments-form [class^="comment-form-"] {
+  margin-bottom: 20px;
+}
+
+.wp-block-post-comments-form [class^="comment-form-"] label {
+  margin-bottom: 5px;
+}
+
+.wp-block-post-comments-form [class^="comment-form-"] input, .wp-block-post-comments-form [class^="comment-form-"] textarea {
+  border: 1px solid #d6d6d6;
+}
+
+.wp-block-post-comments input[type=submit] {
+  background-color: var(--wp--preset--color--zeever-secondary);
+  color: var(--wp--preset--color--black);
+  border-radius: 0px;
+}
